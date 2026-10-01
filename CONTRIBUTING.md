@@ -8,7 +8,7 @@ works in `zitomedia-corp`: Zito staff and contractors.
 - All code built for Zito lives in a `zitomedia-corp` repository, from the first commit.
 - Repositories are private unless Zito approves otherwise.
 - Personal accounts and other organizations hold copies at most, never the only copy.
-- Each repository has a description naming the project owner, and a README covering what it does,
+- Each repository has a description saying what it is, and a README covering what it does,
   how to run it and how it deploys.
 
 ## Access
