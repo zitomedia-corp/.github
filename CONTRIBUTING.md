@@ -59,6 +59,8 @@ Orders now carry an id, and the server ignores repeats.
 - Copy the branch, commit and pull request rules above into your tool's instruction file
   (`CLAUDE.md`, `AGENTS.md`, `.cursorrules` or similar).
 - Review what the tool writes before you commit it, including the message.
+- Use AI tools only with model training on your Zito work turned off. For GitHub Copilot: Settings →
+  Copilot → "Allow GitHub to use my data for AI model training" → Disabled.
 
 ## Secrets
 
