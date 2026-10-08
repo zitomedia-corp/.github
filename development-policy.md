@@ -17,7 +17,8 @@ works in `zitomedia-corp`: Zito staff and contractors.
 - Contractors receive **Write**, or **Maintain** when they manage releases. Admin stays with Zito's
   organization owners.
 - Use your own GitHub account. Shared accounts are not granted access.
-- Turn on two-factor authentication on your GitHub account.
+- Turn on two-factor authentication on your GitHub account with an authenticator app, passkey,
+  security key or GitHub Mobile. Text-message codes are not accepted.
 - Access ends when your contract ends: your Zito contact tells the organization owners that day.
   Access is reviewed every quarter.
 

@@ -16,3 +16,10 @@ For the organization owners of `zitomedia-corp`.
   Organization membership grants no repository access.
   ([GitHub guide](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-outside-collaborators/adding-outside-collaborators-to-repositories-in-your-organization))
 - Invite the person's own GitHub account, never a shared one.
+- Give **Write** by default, or **Maintain** to someone who looks after the repository (releases,
+  settings such as features and merge options). Maintain cannot delete the repository or change access.
+- Give **Admin** to no one outside the organization owners. Repository admins can invite outside
+  collaborators, and the Free plan has no setting to stop them.
+- The organization requires two-factor authentication with a secure method (authenticator app,
+  passkey, security key or GitHub Mobile). An account without it cannot accept the invitation, and
+  one that later uses text-message codes only loses access.
